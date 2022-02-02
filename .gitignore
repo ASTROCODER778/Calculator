@@ -166,10 +166,5 @@ follow('$(OPERATOR *|+|-|/|plus|minus|over|divided|divide|times) $(NUMBER)', p =
 });
 
 
-// Q/A for Alan Playground
-intent(
-    'What does this app do?',
-    'How does this work?',
-    'What can I do here?',
-    reply('This is a calculator project, and you can do simple math operations here Just ask me any mathematical calculation, and I will try to answer it'),
-);
+
+
